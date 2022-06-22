@@ -26,9 +26,9 @@
 
 ## Tecnologias e Ferramentas
 
-<img src=".\src\img\cpp_logo.png" width=50px heigh=50px>
-<img src=".\src\img\devc++.png" width=50px heigh=50px>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg " width=50px heigh=50px>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=50px heigh=50px>
+<img src=".\src\img\cpp_logo.png" width=50px heigh=50px />
+<img src=".\src\img\devc++.png" width=50px heigh=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg " width=50px heigh=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=50px heigh=50px />
           
 </div>
